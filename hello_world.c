@@ -2,6 +2,6 @@
 
 int main(void)
 {
-  printf("Hello World\n");
+  printf("%s\n", "Hello World"); // interesting use of format string
   return 0;
 }
